@@ -1,2 +1,2 @@
 # datasciencecoursera
-Test repo, for assesment
+Test repo, for assessment
